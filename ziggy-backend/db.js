@@ -1,5 +1,5 @@
 // db.js
-require('dotenv').config(); // ✅ Load .env first
+require('dotenv').config(); 
 const mysql = require('mysql2');
 
 const db = mysql.createConnection({
