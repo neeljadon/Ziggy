@@ -1,4 +1,3 @@
-// src/pages/Legal.jsx
 import React from "react";
 import "./Legal.css";
 

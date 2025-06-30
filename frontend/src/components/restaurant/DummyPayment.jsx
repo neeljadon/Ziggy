@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { useCart } from "../Context/CartContext";
 import axios from "axios";
-import "./DummyPayment.css"; // 👈 Create this file for styling
+import "./DummyPayment.css"; 
 
 function DummyPayment() {
   const { cartItems, clearCart } = useCart();

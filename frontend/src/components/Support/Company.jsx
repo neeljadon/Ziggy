@@ -1,4 +1,3 @@
-// src/pages/Company.jsx
 import React from "react";
 import "./Company.css";
 
