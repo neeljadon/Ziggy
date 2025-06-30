@@ -1,0 +1,14 @@
+.text-block {
+  margin: 2rem auto;
+  max-width: 800px;
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(24px, 5vw, 48px);
+  text-align: center;
+  color: #4a98ec;
+}
+
+
+.char {
+  will-change: transform;
+  display: inline-block;
+}

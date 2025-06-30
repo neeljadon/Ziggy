@@ -1,0 +1,54 @@
+.dummy-payment-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  background: #f6f7fb;
+  min-height: 100vh;
+}
+
+.payment-card {
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+.item-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.total-amount {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  margin: 20px 0;
+  color: #111;
+}
+
+.pay-btn {
+  width: 100%;
+  padding: 12px;
+  background: #ff5722;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.pay-btn:hover {
+  background: #e64a19;
+}
