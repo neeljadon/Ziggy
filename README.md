@@ -64,5 +64,5 @@ npm start
 
 ## ✍️ Author
 
-- **Neel Shankar** – [LinkedIn](https://www.linkedin.com/neelshankar)
+- **Neel Shankar** – [LinkedIn](https://www.linkedin.com/in/neel-shankar)
 
